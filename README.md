@@ -18,6 +18,8 @@
    git clone https://github.com/Ayush92-byte/study-hive.git
 2. Open the project in Android Studio.
 3. Build and run the app on your preferred Android device or emulator.
+## Screenshots
+![photo1](https://github.com/user-attachments/assets/b98c89af-06c1-4a72-85e6-7fdbabf0f14f)
 
 
 ***Happy Studying with Study Hive! 📚✨***
