@@ -20,6 +20,8 @@
 3. Build and run the app on your preferred Android device or emulator.
 ## Screenshots
 ![photo1](https://github.com/user-attachments/assets/b98c89af-06c1-4a72-85e6-7fdbabf0f14f)
+![photo2](https://github.com/user-attachments/assets/a4fcc0bd-2e02-4a7d-a10d-e09a79caa749)
+
 
 
 ***Happy Studying with Study Hive! 📚✨***
