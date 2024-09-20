@@ -29,6 +29,9 @@
 ## Video 
 https://github.com/user-attachments/assets/74acf06c-a2b3-455a-b457-bc25cf478452
 
+# Deployed URL : 
+- StudyHive : [View App](https://drive.google.com/file/d/1dIb6X3vdCNdzUli1g32dDdxiweQnJ25T/view?usp=drive_link)
+
 
 
 
